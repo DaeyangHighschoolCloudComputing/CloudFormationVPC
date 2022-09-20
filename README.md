@@ -231,3 +231,5 @@ Outputs:
     Description: A reference to the private subnet in the 2nd Availability Zone
     Value: !Ref PrivateSubnet2
 ```
+#### Diagram
+<p align="center">https://user-images.githubusercontent.com/86287920/191237682-09359a6c-2ec5-443f-97b9-cdec5876f14b.jpg</p>
